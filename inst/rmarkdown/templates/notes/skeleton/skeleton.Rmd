@@ -7,9 +7,9 @@ output:
   html_notebook:
     theme: readable
     highlight: zenburn
-  #pdf_document:
-    #latex_engine: xelatex
-    #df_print: kable
+  # pdf_document:
+  #   latex_engine: xelatex
+  #   df_print: kable
 ---
 <!-- FOR UPDATES -->
   
